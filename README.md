@@ -1,4 +1,8 @@
-## Hi there 👋
+**About me! 👋**
+
+- 👨‍💻 I'm a software engineer based in Barcelona, Spain
+- 🤔 My interest lies in Computer Vision, ML, Backend and Robotics
+- ⚡ Passionate about building reliable systems that operate in complex real-world scenarios.
 
 <!--
 **mxrera/mxrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
